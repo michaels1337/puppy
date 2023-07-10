@@ -22,3 +22,7 @@ func DoJump() string {
 	return "JUMP"
 
 }
+func Run() string {
+	return "Start running"
+
+}
