@@ -17,3 +17,8 @@ func BigBark() string {
 func BigBarks() string {
 	return dog.WhenGrowUp(Barks())
 }
+
+func DoJump() string {
+	return "JUMP"
+
+}
